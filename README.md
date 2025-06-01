@@ -71,7 +71,7 @@ I'm **Andrey Kamanin** (21 y.o. & from Russia). I'm beginner Java developer.
 
 ###
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://streak-stats.demolab.com?user=reiikaw&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reiikaw&show_icons=true&locale=en&layout=compact" alt="reiikaw" />
