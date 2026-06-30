@@ -13,7 +13,7 @@
 ###
 
 I'm **Andrey Kamanin** (22 y.o. & from Russia). I'm Junior Java developer.
-- 📚 I'm currently studying at YSTU (2022-2026)
+- 📚 I graduated from YSTU with a bachelor's degree
 - 👨‍💻 I'm working in ARGO Studio as Java Developer
 - 🦊 GitLab projects: [reiikaw](https://gitlab.com/users/Biwaby/groups)
 
